@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8707938110786917141}
   - component: {fileID: 5726067469333126320}
   - component: {fileID: 7535616532506060922}
+  - component: {fileID: 3356710808803209627}
   m_Layer: 0
   m_Name: Blue_AntHills
   m_TagString: Blue_Base
@@ -83,3 +84,15 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &3356710808803209627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8328034494086515119}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01a974d5e051d434389d3835cf037ae8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
